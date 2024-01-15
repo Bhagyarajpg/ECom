@@ -28,4 +28,4 @@ To run the E-Commerce Web Application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bhagyarajpg/pythondemo.git
+   git clone https://github.com/Bhagyarajpg/ECom.git
